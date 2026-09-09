@@ -1,29 +1,33 @@
-# Neodymium-Boosted + Saucer-Focused Configuration
+# Current Experimental Configuration
 
-## Setup Description
-The original Circular Magnetic Field Star-Core is locked onto a 2×2×1 inch neodymium magnet and focused by a metal saucer.
+## Full Stack (bottom to top)
 
-### Stack (bottom to top):
-1. 2×2×1" neodymium “monster” magnet
-2. Star-core assembly (stainless ring + copper star + five hematite elements)
-3. Metal saucer that sits over / around the assembly and focuses the field upward
+1. **2×2×1" Neodymium magnet**  
+   Primary high-intensity axial field source (“monster” magnet).
 
-## Observed / Expected Effects
-- Dramatic increase in overall field strength due to the neodymium base
-- The circular field from the hematite elements is superimposed on the strong axial field
-- The saucer concentrates the combined field into a more directional upward beam / column
+2. **Play-Doh layer**  
+   Soft protective cushion covering the neodymium. Prevents direct hard contact and provides minor spacing.
 
-## Photo Notes (from current build)
-- Copper star shows some surface discoloration and residue
-- Yellowish material visible around the star (possible epoxy, paint, or test residue)
-- Entire assembly sits inside a rusty circular metal saucer
-- Mounted on a black plastic grate for testing
+3. **Star-Core Assembly + Saucer**  
+   - Stainless steel outer shield ring  
+   - Copper five-pointed star (gold-soldered at the points)  
+   - Five faceted hematite elements  
+   - Seated in the rusty metal focusing saucer
 
-## Recommended Measurements
-- Gauss / Tesla readings at various heights above the saucer
-- Comparison of circular field strength with vs without the neodymium
-- Temperature of copper star and stainless ring after 10–30 minutes of continuous exposure
-- Any noticeable vibration, humming, or eddy-current heating
+4. **1/8-inch thick Aluminum Cross**  
+   Placed on top of the Play-Doh. Non-magnetic, highly conductive. Interacts with the strong field via eddy currents and may shape, damp, or redistribute the focused field.
+
+## Expected Interactions
+- Neodymium strongly amplifies the circular field from the hematite elements.
+- Saucer concentrates the combined field upward.
+- Play-Doh protects the magnet and slightly spaces the assembly.
+- Aluminum cross introduces conductive losses / eddy-current effects and can act as a field modifier.
+
+## Recommended Observations
+- Temperature of the aluminum cross and copper star after running
+- Field strength and pattern above the cross vs. without it
+- Any vibration, humming, or visible effects
+- Exact rotational alignment of the aluminum cross relative to the copper star points
 
 ## Status
-Active experimental configuration — September 2026
+Active experimental build — September 2026
